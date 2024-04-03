@@ -6,11 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Letra</h1>
-<?php
-echo 'no se si hice bien pero llame';
-echo ',no me gusto lo que escuche'; 
-
-?>
+    <h1> mi seundo archivo </h1>
+    <?php
+    echo <<<END
+    En un mundo conectado,
+    donde cada segundo se envia millones de correos electronicos...
+    END;       ?>
 </body>
 </html>
