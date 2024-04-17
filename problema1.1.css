@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+
+h1{
+    padding: auto;
+    margin: 0 auto;
+     justify-content: center;
+     width: 200px;
+}
+
+p{
+    color: gray;
+    margin: auto;
+    width: 600px;
+    
+}
+
+#a1 {
+    padding: auto;
+    margin: 0 auto;
+    width: 600px;
+  border-color: black;
+  justify-content: center;
+  
+  border: 1px solid black;
+}
+
+#a2 {
+    
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+  border-color: black;
+  justify-content: center;
+  border: 1px solid rgb(20, 16, 16);
+
+}
